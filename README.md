@@ -25,13 +25,13 @@
 
 </div>
 
-<div style="display:flex; flex-direction:column; align-items:center; justify-content:center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvictordev&show_icons=true&locale=en&layout=compact" alt="pvictordev" /></p>
+<div style="display:flex; flex-direction:row; align-items:flex-end;gap:0.5rem">
+<p><img align="center" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvictordev&show_icons=true&locale=en&layout=compact" alt="pvictordev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pvictordev&show_icons=true&locale=en" alt="pvictordev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pvictordev&" alt="pvictordev" /></p>
+<p>&nbsp;<img align="center"  height="155px" src="https://github-readme-stats.vercel.app/api?username=pvictordev&show_icons=true&locale=en" alt="pvictordev" /></p>
 
 </div>
+<!-- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pvictordev&" alt="pvictordev" /></p> -->
 
 
