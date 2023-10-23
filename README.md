@@ -4,6 +4,13 @@
   <a href="https://github.com/pvictordev/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech-Savvy+Front-End+Web+Developer;Computer+Science+Undergraduate;Freelance+Worker;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
+<p align="center" style="font-size:15px">
+    <!-- <b>Victor Purice</b>, 2nd year <b>Computer Science</b> undergraduate from <b>ULBS Institute of Science</b>, Sibiu.
+    An aspiring <b>Front-End Developer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b>Web3 Enthusiast.</b> 
+  <br> -->
+  As a Front-End Developer, i'm eager to contribute my expertise to an innovative team that shares the goal of crafting exceptional web experiences.
+</p>
+
 <div style="display: flex; flex-direction: column; align-items: flex-start; justify-content:center; margin-bottom:px;">
 
 <div>
@@ -25,7 +32,7 @@
 
 </div>
 
-<div style="display:flex; flex-direction:row; align-items:flex-end;gap:0.5rem">
+<div style="display:flex; align-items:flex-end;justify-content:space-between; gap:0.5rem">
 <p><img align="center" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvictordev&show_icons=true&locale=en&layout=compact" alt="pvictordev" /></p>
 
 <p>&nbsp;<img align="center"  height="155px" src="https://github-readme-stats.vercel.app/api?username=pvictordev&show_icons=true&locale=en" alt="pvictordev" /></p>
@@ -33,5 +40,3 @@
 </div>
 <!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pvictordev&" alt="pvictordev" /></p> -->
-
-
