@@ -4,7 +4,7 @@
   <a href="https://github.com/pvictordev/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech-Savvy+Front-End+Web+Developer;Computer+Science+Undergraduate;Freelance+Worker;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
-<p align="center" style="padding:0 3rem;">
+<p align="center" style="padding:0 3rem; font-size:16.5px">
     <!-- <b>Victor Purice</b>, 2nd year <b>Computer Science</b> undergraduate from <b>ULBS Institute of Science</b>, Sibiu.
     An aspiring <b>Front-End Developer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b>Web3 Enthusiast.</b> 
   <br> -->
