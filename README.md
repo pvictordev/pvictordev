@@ -8,7 +8,7 @@
     <!-- <b>Victor Purice</b>, 2nd year <b>Computer Science</b> undergraduate from <b>ULBS Institute of Science</b>, Sibiu.
     An aspiring <b>Front-End Developer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b>Web3 Enthusiast.</b> 
   <br> -->
-  As a Front-End Developer, i'm eager to contribute my expertise to an innovative team that shares the goal of crafting exceptional web experiences.
+  As a <b>Front-End Developer</b>, i'm eager to <b>contribute</b> my expertise to an innovative <b>team</b> that shares the goal of crafting exceptional <b>Web Experiences.</b>&nbsp;
 </p>
 
 <div style="display: flex; flex-direction: column; align-items:flex-start; justify-content:center; text-align:left">
