@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/victor-purice-dev/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/wftpid">
+  <a href="https://twitter.com/pvictordev">
     <img alt="Static Badge" src="https://img.shields.io/badge/twitter-%23141d26?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   </div>
