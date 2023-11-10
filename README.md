@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=console&weight=800&duration=2000&pause=1000&color=6EC2DE&random=false&width=435&lines=Tech-Savvy+Front-End+Web+Developer;Computer+Science+Undergraduate;Freelance+Developer;Aspriring+learner" alt="Typing SVG" /></a>
   <div>
 
-  <div style="margin-bottom:35px; margin-top:-5px">
+  <div style="margin-bottom:50px; margin-top:-5px">
   <h2>About me</h2>
   <p>
   Currenlty i am pursuing studies in <b>Computer Science</b> at ULBS, Romania.</br>
@@ -12,7 +12,7 @@
   </p>
   </div>
 
-  <div style="margin-bottom:35px">
+  <div style="margin-bottom:50px">
   <h2>Contact me</h2>
   <a href="mailto:pvictor0110@gmail.com" >
   <img alt="Static Badge" src="https://img.shields.io/badge/gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -28,7 +28,7 @@
   </a>
   </div>
 
-  <div style="margin-bottom:35px">
+  <div style="margin-bottom:50px">
   <h2>Tech Stack</h2>
   <p> 
     <a href="https://skillicons.dev">
