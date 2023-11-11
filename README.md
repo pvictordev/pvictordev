@@ -7,8 +7,8 @@
   <div>
   <h2>About me</h2>
   <p>
-  Currenlty i am pursuing studies in <b>Computer Science</b> at ULBS, Romania.
-  I specialize in <b>Web development</b>. Proficient in <b>Front-end</b> and possessing <b>Back-End</b> development experience. I aim to collaborate with a team dedicated to creating exceptional web experiences and to improve my <b>SWE proficiency.</b>
+  Currenlty pursuing studies in <b>Computer Science</b> at ULBS, Romania.
+  I specialize in <b>Web development</b>. Proficient in <b>Front-end</b> and possessing <b>Back-End</b> development experience.My goal is to collaborate with a dedicated team, enhancing my <b>SWE proficiency.</b> while creating outstanding web experiences.
   </p>
   </div>
   
