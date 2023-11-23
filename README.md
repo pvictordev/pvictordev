@@ -29,12 +29,60 @@
   </div>
 
   <div>
-  <h2>Tech Stack</h2>
-  <p> 
+    <h2>Tech Stack</h2>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,ts,tailwind,mongo,nodejs,express" />
     </a>
   </div>
+  <br>
+
+<details>
+  <summary>
+  <span style="font-size:17px; font-weight:700">Skills </span></summary>
+  <div>
+    <h3>Languages</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" />
+    </a>
+  </div>
+
+  <div>
+  <h3>Frameworks and libraries</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,redux,vue,tailwind,bootstrap,mui,express" />
+  </a>
+  </div>
+
+  <div>
+  <h3>Databases</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongo,firebase,postgresql" />
+  </a>
+  </div>
+
+  <div>
+  <h3>Cloud Hosting</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=netlify,vercel,firebase,heroku,cloudflare" />
+  </a>
+  </div>
+
+  <div>
+  <h3>Testing</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,jest" />
+  </a>
+  </div>
+
+  <div>
+  <h3>Software</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma,ps,webpack,vite," />
+  </a>
+  </div>
+
+</details>
+
   <br>
 
   <details>
@@ -46,8 +94,8 @@
   ![pvictordev's Stats](https://github-readme-stats.vercel.app/api?username=pvictordev&theme=react&show_icons=true&hide_border=false&count_private=true)
 
   ![pvictordev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvictordev&theme=react&hide_border=false)
-  
-  <br/>
+
+
   </details>
 
 </div>
