@@ -23,9 +23,9 @@
   <a href="https://www.linkedin.com/in/victor-purice-dev/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/pvictordev">
+  <!-- <a href="https://twitter.com/pvictordev">
     <img alt="Static Badge" src="https://img.shields.io/badge/twitter-%23141d26?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+  </a> -->
   </div>
 
   <div>
@@ -80,10 +80,9 @@
     <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma,ps,webpack,vite," />
   </a>
   </div>
-
+  <br>
 </details>
 
-  <br>
 
   <details>
   <summary><span style="font-size:17px; font-weight:700">Github Stats</span></summary>
