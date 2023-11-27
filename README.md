@@ -42,14 +42,14 @@
   <div>
     <h3>Languages</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,py,html,css" />
     </a>
   </div>
 
   <div>
   <h3>Frameworks and libraries</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,redux,vue,tailwind,bootstrap,mui,express" />
+    <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,bootstrap,mui,express,django" />
   </a>
   </div>
 
