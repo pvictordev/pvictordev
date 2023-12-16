@@ -56,7 +56,7 @@
   <div>
   <h3>Databases</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongo,firebase,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongo,firebase,mysql" />
   </a>
   </div>
 
