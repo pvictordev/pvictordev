@@ -1,4 +1,3 @@
-<div>
   <div>
   <h1 style="margin-bottom:5px">Hi, I'm Victor Purice 👋</h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=console&weight=800&duration=2000&pause=1000&color=6EC2DE&random=false&width=435&lines=Tech-Savvy+Front-End+Web+Developer;Computer+Science+Undergraduate;Freelance+Developer;Aspriring+learner" alt="Typing SVG" /></a>
@@ -42,14 +41,14 @@
   <div>
     <h3>Languages</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,py,html,css" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,php,html,css" />
     </a>
   </div>
 
   <div>
   <h3>Frameworks and libraries</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,bootstrap,mui,express,django" />
+    <img src="https://skillicons.dev/icons?i=react,next,angular,laravel,redux,tailwind,bootstrap,mui,express" />
   </a>
   </div>
 
@@ -83,18 +82,14 @@
   <br>
 </details>
 
-
   <details>
   <summary><span style="font-size:17px; font-weight:700">Github Stats</span></summary>
   <br/>
 
-  ![pvictordev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvictordev&theme=react&show_icons=true&hide_border=false&layout=compact)
+![pvictordev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvictordev&theme=react&show_icons=true&hide_border=false&layout=compact)
 
-  ![pvictordev's Stats](https://github-readme-stats.vercel.app/api?username=pvictordev&theme=react&show_icons=true&hide_border=false&count_private=true)
+![pvictordev's Stats](https://github-readme-stats.vercel.app/api?username=pvictordev&theme=react&show_icons=true&hide_border=false&count_private=true)
 
-  ![pvictordev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvictordev&theme=react&hide_border=false)
-
+![pvictordev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvictordev&theme=react&hide_border=false)
 
   </details>
-
-</div>
