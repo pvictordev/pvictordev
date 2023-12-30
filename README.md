@@ -6,8 +6,7 @@
   <div>
   <h2>About me</h2>
   <p>
-  Currenlty pursuing studies in <b>Computer Science</b> at ULBS, Romania.
-  I specialize in <b>Web development</b>, proficient in <b>Front-end</b> and possessing <b>Back-End</b> development experience. My goal is to collaborate with a dedicated team, enhancing my <b>SWE proficiency</b> while creating outstanding web experiences.
+  Currently pursuing studies in <b>Computer Science</b> at ULBS, Romania. I've acquired valuable experience in <b>Web Development</b> through <b>freelance</b> collaborating with diverse clients. Besides this, I am presently expanding my skills by crafting various <b>personal projects</b>. My goal is to collaborate with a dedicated team, enhancing my proficiency while creating outstanding <b>Web Experiences</b>.
   </p>
   </div>
   
@@ -48,7 +47,7 @@
   <div>
   <h3>Frameworks and libraries</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,angular,laravel,redux,tailwind,bootstrap,mui,express" />
+    <img src="https://skillicons.dev/icons?i=react,next,angular,redux,tailwind,bootstrap,mui,express,laravel" />
   </a>
   </div>
 
@@ -62,7 +61,7 @@
   <div>
   <h3>Cloud Hosting</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,vercel,firebase,heroku,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=firebase,heroku,cloudflare" />
   </a>
   </div>
 
@@ -76,7 +75,7 @@
   <div>
   <h3>Software</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma,ps,webpack,vite," />
+    <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma,ps,webpack,vite" />
   </a>
   </div>
   <br>
