@@ -6,7 +6,7 @@
   <div>
   <h2>About me</h2>
   <p>
-  Currently pursuing studies in <b>Computer Science</b> at ULBS, Romania. I've acquired valuable experience in <b>Web Development</b> through <b>freelance</b> collaboration with diverse clients. Besides this, I am presently expanding my skills by crafting various <b>personal projects</b>. My goal is to collaborate with a dedicated team, enhancing my proficiency while creating outstanding <b>Web Experiences</b>.
+  I am currently pursuing studies in <b>Computer Science</b> at ULBS, Romania. I've acquired valuable experience in <b>Web Development</b> through <b>freelance</b> collaboration with diverse clients. Besides this, I am presently expanding my skills by crafting various <b>personal projects</b>. My goal is to collaborate with a dedicated team, enhancing my proficiency while creating outstanding <b>Web Experiences</b>.
   </p>
   </div>
   
