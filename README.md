@@ -79,7 +79,7 @@
   </div>
   <br>
 
-<!-- </details>
+</details>
 
   <details>
   <summary><span style="font-size:17px; font-weight:700">Github Stats</span></summary>
@@ -91,4 +91,4 @@
 
 ![pvictordev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvictordev&theme=react&hide_border=false)
 
-  </details> -->
+  </details>
