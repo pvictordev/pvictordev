@@ -7,7 +7,7 @@
   <h2>About me</h2>
   <p>
   Hi, I'm Victor, a Front-End Web Developer and Computer Science Student based in Romania.<br>
-  Focused on Web Development, I possess experience in both Front-End and Back-End, enabling me to work on various Full-Stack projects with range of complexities.<br>
+  Focused on Web Development, I possess experience iyi both Front-End and Back-End, enabling me to work on various Full-Stack projects with range of complexities.<br>
   In my +1 year of experience, I've had the opportunity to work with a diverse range of technologies and methodologies gaining invaluable insights into different approaches to software development.<br>
   I'm committed to leveraging this experience to deliver innovative solutions tailored to meet specific business needs.needs.
   </p>
