@@ -1,6 +1,6 @@
   <div>
   <h1 style="margin-bottom:5px">Hi, I'm Victor Purice 👋</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=console&weight=800&duration=2000&pause=1000&color=6EC2DE&random=false&width=435&lines=Frontend+Web+Developer;Computer+Science+Student;Freelance+Developer;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=console&weight=800&duration=2000&pause=1000&color=6EC2DE&random=false&width=435&lines=Front-End+Web+Developer;Computer+Science+Student;Freelance+Developer;" alt="Typing SVG" /></a>
   <div>
 
   <div>
