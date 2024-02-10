@@ -1,12 +1,15 @@
   <div>
   <h1 style="margin-bottom:5px">Hi, I'm Victor Purice 👋</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=console&weight=800&duration=2000&pause=1000&color=6EC2DE&random=false&width=435&lines=Tech-Savvy+Front-End+Web+Developer;Computer+Science+Undergraduate;Freelance+Developer;Aspriring+learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=console&weight=800&duration=2000&pause=1000&color=6EC2DE&random=false&width=435&lines=Frontend+Web+Developer;Computer+Science+Student;Freelance+Developer;" alt="Typing SVG" /></a>
   <div>
 
   <div>
   <h2>About me</h2>
   <p>
-  Currently pursuing studies in <b>Computer Science</b> at ULBS, Romania. I've acquired valuable experience in <b>Web Development</b> through <b>freelance</b> collaboration with diverse clients. Besides this, I am presently expanding my skills by crafting various <b>personal projects</b>. My goal is to collaborate with a dedicated team, enhancing my proficiency while creating outstanding <b>Web Experiences</b>.
+  Hi, I'm Victor, a Front-End Web Developer and Computer Science Student based in Romania.<br>
+  Focused on Web Development, I possess experience in both Front-End and Back-End, enabling me to work on various Full-Stack projects with range of complexities.<br>
+  In my +1 year of experience, I've had the opportunity to work with a diverse range of technologies and methodologies gaining invaluable insights into different approaches to software development.<br>
+  I'm committed to leveraging this experience to deliver innovative solutions tailored to meet specific business needs.needs.
   </p>
   </div>
   
@@ -21,9 +24,6 @@
   <a href="https://www.linkedin.com/in/victor-purice-dev/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- <a href="https://twitter.com/pvictordev">
-    <img alt="Static Badge" src="https://img.shields.io/badge/twitter-%23141d26?style=for-the-badge&logo=x&logoColor=white"/>
-  </a> -->
   </div>
 
   <div>
@@ -79,7 +79,8 @@
   </a>
   </div>
   <br>
-</details>
+
+<!-- </details>
 
   <details>
   <summary><span style="font-size:17px; font-weight:700">Github Stats</span></summary>
@@ -91,4 +92,4 @@
 
 ![pvictordev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvictordev&theme=react&hide_border=false)
 
-  </details>
+  </details> -->
