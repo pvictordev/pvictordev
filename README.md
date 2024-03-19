@@ -29,7 +29,6 @@
       <img src="https://skillicons.dev/icons?i=react,ts,tailwind,mongo,nodejs,express" />
     </a>
   </div> -->
-  <br>
 
 <!-- <details>
   <summary>
