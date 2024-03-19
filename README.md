@@ -6,7 +6,7 @@
   <!-- <div>
   <h2>About me</h2>
   <p>
-  Full-Stack Web Developer and Computer Science Student based in Romania. I possess expertise in both Front-End and Back-End Development, enabling me to engage on different projects with a range of complexities. In my +1 year of experience, I've had the opportunity to work with various technologies and methodologies. I'm committed to applying this experience in delivering high-quality solutions for clients.
+  Front-End Web Developer and Computer Science Student based in Romania. I possess expertise in both frontend and backend, enabling me to work on various Full-Stack projects with a range of complexities. In my +1 year of experience, I've had the opportunity to work with various technologies and methodologies. I'm committed to applying this experience in delivering high-quality solutions for clients.
   </p>
   </div> -->
 
