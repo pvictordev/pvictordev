@@ -92,7 +92,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=800&color=ADBAC7&vCenter=true&random=false&width=435&height=21&lines=Full-Stack+Web+Developer;Computer+Science+Student)](https://git.io/typing-svg)
 
-# About me
+## About me
 
 Full-Stack Web Developer and Computer Science Student based in Romania. I possess expertise in both Front-End and Back-End Development, enabling me to engage on different projects with a range of complexities. In my +1 year of experience, I've had the opportunity to work with various technologies and methodologies. I'm committed to applying this experience in delivering high-quality solutions for clients.
 
