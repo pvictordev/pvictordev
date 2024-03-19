@@ -75,7 +75,6 @@
     <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma,ps,webpack,vite" />
   </a>
   </div>
-  <br>
 </details>
 
 #
