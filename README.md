@@ -1,5 +1,5 @@
   <div>
-  <h1 style="">Hi👋 I'm Victor Purice</h1>
+  <h1 style="margin-bottom:20px">Hi👋 I'm Victor Purice</h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=800&color=ADBAC7&vCenter=true&random=false&width=435&height=21&lines=Full-Stack+Web+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
   <div>
 
@@ -78,7 +78,8 @@
   <br>
 </details>
 
-<hr>
+#
+
   <details>
   <summary><span style="font-size:17px; font-weight:700">Github Stats</span></summary>
   <br/>
