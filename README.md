@@ -96,7 +96,7 @@
 
 Full-Stack Web Developer and Computer Science Student based in Romania. I possess expertise in both Front-End and Back-End Development, enabling me to engage on different projects with a range of complexities. In my +1 year of experience, I've had the opportunity to work with various technologies and methodologies. I'm committed to applying this experience in delivering high-quality solutions for clients.
 
-### Hit me up 👇
+## Hit me up 👇
 
 <a href="mailto:pvictor0110@gmail.com" >
 <img alt="Static Badge" src="https://img.shields.io/badge/gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white"/>
