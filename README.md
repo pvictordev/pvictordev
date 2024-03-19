@@ -1,17 +1,17 @@
   <div>
-  <h1 style="margin-bottom:5px">Hi, I'm Victor Purice 👋</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=console&weight=800&duration=2000&pause=1000&color=6EC2DE&random=false&width=435&lines=Front-End+Web+Developer;Computer+Science+Student;Freelance+Developer;" alt="Typing SVG" /></a>
+  <h1 style="">Hi👋 I'm Victor Purice</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=ADBAC7&vCenter=true&random=false&width=435&height=21&lines=Full-Stack+Web+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
   <div>
 
-  <div>
+  <!-- <div>
   <h2>About me</h2>
   <p>
-  Front-End Web Developer and Computer Science Student based in Romania. I possess expertise in both frontend and backend, enabling me to work on various Full-Stack projects with a range of complexities. In my +1 year of experience, I've had the opportunity to work with various technologies and methodologies. I'm committed to applying this experience in delivering high-quality solutions for clients.
+  Full-Stack Web Developer and Computer Science Student based in Romania. I possess expertise in both Front-End and Back-End Development, enabling me to engage on different projects with a range of complexities. In my +1 year of experience, I've had the opportunity to work with various technologies and methodologies. I'm committed to applying this experience in delivering high-quality solutions for clients.
   </p>
-  </div>
-  
-  <div>
-  <h2>Contact me</h2>
+  </div> -->
+
+  <div >
+  <h2>Hit me up 👇</h2>
   <a href="mailto:pvictor0110@gmail.com" >
   <img alt="Static Badge" src="https://img.shields.io/badge/gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -23,12 +23,12 @@
   </a>
   </div>
 
-  <div>
+  <!-- <div>
     <h2>Tech Stack</h2>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,ts,tailwind,mongo,nodejs,express" />
     </a>
-  </div>
+  </div> -->
   <br>
 
 <details>
@@ -79,7 +79,7 @@
 
 </details>
 
-  <details>
+  <!-- <details>
   <summary><span style="font-size:17px; font-weight:700">Github Stats</span></summary>
   <br/>
 
@@ -89,4 +89,4 @@
 
 ![pvictordev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvictordev&theme=react&hide_border=false)
 
-  </details>
+  </details> -->
