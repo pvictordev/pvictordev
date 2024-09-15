@@ -97,8 +97,8 @@
 Full-Stack Web Developer and Computer Science Student based in Romania. I possess expertise in both Front-End and Back-End Development, enabling me to engage on different projects with a range of complexities. In my +1 year of experience, I've had the opportunity to work with various technologies and methodologies. I'm committed to applying this experience in delivering high-quality solutions for clients. -->
 
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=angular,ts,laravel,php,nodejs,express" />
 
+<img src="https://skillicons.dev/icons?i=vue,ts,laravel,php,nodejs,express" />
 
 ## Hit me up 👇
 
