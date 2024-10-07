@@ -67,7 +67,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=3B7BF7&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Computer+Science+Student)](https://git.io/typing-svg) -->
 
-Just a dev who loves building stuff that make a difference.
+Just a guy who loves building stuff that make a difference.
 
 <!-- ## About me
 
