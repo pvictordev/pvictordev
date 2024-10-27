@@ -63,7 +63,7 @@
 
   </details> -->
 
-# Hi, I'm Victor 👋
+<!-- # Hi, I'm Victor 👋 -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=3B7BF7&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Computer+Science+Student)](https://git.io/typing-svg) -->
 
@@ -74,7 +74,7 @@ Just a guy who loves building stuff that make a difference.
 <!-- ## Tech Stack
 <img src="https://skillicons.dev/icons?i=vue,ts,laravel,php,nodejs,express" /> -->
 
-## Hit me up 👇
+<!-- ## Hit me up 👇
 
 <a href="mailto:pvictor0110@gmail.com" >
 <img alt="Static Badge" src="https://img.shields.io/badge/gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -85,3 +85,4 @@ Just a guy who loves building stuff that make a difference.
 <a href="https://www.linkedin.com/in/victor-purice-dev/" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+-->
