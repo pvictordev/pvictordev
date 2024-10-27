@@ -2,8 +2,7 @@
 
 A guy who loves building stuff that makes a difference.
 
-__How to reach me__ 📫
+**How to reach me** 📫
+
 - vpurice@proton.me
 - [in/victor-purice-dev](https://www.linkedin.com/in/victor-purice-dev)
-
-
