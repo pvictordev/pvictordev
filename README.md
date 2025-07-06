@@ -1,3 +1,4 @@
 ## Hi, I'm Victor 👋
 
-A guy who loves building stuff that makes a difference. [Contact](mailto:vpurice@proton.me) me if you have any interesting inquiries.
+I love building projects that make a difference.
+[React out](mailto:vpurice@proton.me)  if you just want to connect or chat about something interesting.
