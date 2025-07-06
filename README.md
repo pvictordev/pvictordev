@@ -1,3 +1,3 @@
 ## Hi, I'm Victor 👋
 
-I love building stuff that make a difference.
+I love building stuff that makes a difference.
